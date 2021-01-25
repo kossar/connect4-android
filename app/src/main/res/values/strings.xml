@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Connect 4</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="timer_hint">00:00:00</string>
+    <string name="score_hint">0</string>
+    <string name="info_text">Press Start for a new game</string>
+    <string name="star_button_text">Start</string>
+    <string name="reset_button_text">Reset</string>
+    <string name="next_turn">Turn by: </string>
+    <string name="winner">won</string>
+</resources>
